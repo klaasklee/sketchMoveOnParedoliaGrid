@@ -1,3 +1,5 @@
+⚠️ THE PROJECT HAS MOVED TO CODEBERG.ORG https://codeberg.org/klaasklee/sketchMoveOnParedoliaGrid ⚠️
+
 # Paredolia-GridSystem Visuals
 this Code displays colages of images
 
